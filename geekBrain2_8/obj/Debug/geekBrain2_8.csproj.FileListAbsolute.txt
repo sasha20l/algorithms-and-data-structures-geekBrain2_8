@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\bin\Debug\geekBrain2_8.exe.config
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\bin\Debug\geekBrain2_8.exe
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\bin\Debug\geekBrain2_8.pdb
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\obj\Debug\geekBrain2_8.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\obj\Debug\geekBrain2_8.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\obj\Debug\geekBrain2_8.exe
+C:\Users\Александр\source\repos\geekBrain2_8\geekBrain2_8\obj\Debug\geekBrain2_8.pdb
